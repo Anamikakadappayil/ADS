@@ -1,0 +1,101 @@
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 1
+Enter value to insert: 1
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 1
+Enter value to insert: 2
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 1
+Enter value to insert: 3
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 1
+Enter value to insert: 5
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 2
+Enter value to delete: 4
+4 not found.
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 2
+Enter value to delete: 1
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 3
+Inorder: 2 3 5 
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 4
+Preorder: 2 3 5 
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 5
+Postorder: 5 3 2 
+
+--- Binary Search Tree ---
+1. Insert
+2. Delete
+3. Inorder
+4. Preorder
+5. Postorder
+6. Exit
+Enter choice: 
+
